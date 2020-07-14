@@ -98,6 +98,7 @@
     {
         "title": "Urine pH Level Test",
         "categories": null,
+        "keys": ["pH"],
         "summary": "A urine pH level test is a simple and painless test that analyzes the acidity or alkalinity of a urine sample.",
         "url": "/health/urine-ph",
         "publishedUnix": 1339398000000,
